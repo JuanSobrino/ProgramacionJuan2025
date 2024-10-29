@@ -29,8 +29,6 @@ public class Ejercicio1OW {
         precioFinal = costeProducto * 1.21;
         System.out.println("El precio final para el cliente es " + precioFinal);
 
-        //Prueba de que el GIT funciona em Windows
-
     }
 
 
